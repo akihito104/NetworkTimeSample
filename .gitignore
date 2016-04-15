@@ -1,0 +1,16 @@
+# user specific configuration
+*.iml
+.idea/
+
+# gradle generated
+.gradle
+
+# local setting
+/local.properties
+
+# OS specific
+.DS_Store
+
+# AS generating
+/build
+/captures
